@@ -7,4 +7,4 @@ In Session 1, we covered:
 * FIMS and spreadsheet validation
 * Geneious layout introduction
 
-GoToMeeting Recording: 
+GoToMeeting Recording: [https://drive.google.com/file/d/0B9NA4VyDsjPbSnpHSWcxRDV5UEk/view](https://drive.google.com/file/d/0B9NA4VyDsjPbSnpHSWcxRDV5UEk/view)

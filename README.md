@@ -5,7 +5,7 @@ The purpose of the workshop is to provide intensive training for Geneious softwa
 
 Slides, in-class materials, and links to recordings can be found in each Session folder.
 
-[Session 1](Session\ 1) (July 12, 2016)
+[Session 1](Session\ 1) (July 12, 2016):
 * Introduction to DNA Barcoding pipeline
 * DNA Barcode Data Standard
 * FIMS and spreadsheet validation

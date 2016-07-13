@@ -7,4 +7,3 @@ In Session 2, we covered:
 * Creating extraction plates
 * Searching in LIMS
 * Creating PCR plates
-* Upload and scoring PCR gels

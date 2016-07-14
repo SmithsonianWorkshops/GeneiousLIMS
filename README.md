@@ -10,3 +10,10 @@ Slides, in-class materials, and links to recordings can be found in each Session
 * DNA Barcode Data Standard
 * FIMS and spreadsheet validation
 * Geneious layout introduction
+
+[Session 2](Session\ 2) (July 13, 2016):
+* Logging into Geneious Biocode Plugin
+* Naming conventions in FIMS and LIMS
+* Creating extraction plates
+* Searching in LIMS
+* Creating PCR plates

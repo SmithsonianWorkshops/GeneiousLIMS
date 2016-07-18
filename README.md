@@ -17,3 +17,10 @@ Slides, in-class materials, and links to recordings can be found in each Session
 * Creating extraction plates
 * Searching in LIMS
 * Creating PCR plates
+
+[Session 3](Session\ 3) (July 19, 2016):
+* Revisit generating PCR plates, primers, thermocycling protocols
+* Uploading and scoring gel images
+* Generating cycle sequencing plates
+* Attaching raw traces to plates (including sequence naming convention)
+* Downloading traces to local

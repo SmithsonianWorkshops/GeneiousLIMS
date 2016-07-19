@@ -7,3 +7,5 @@ In Session 3, we covered:
 * Generating cycle sequencing plates
 * Attaching raw traces to plates (including sequence naming convention)
 * Downloading traces to local
+
+GoToMeeting Recording: [https://drive.google.com/file/d/0B9NA4VyDsjPbb0ZsUUdJeDJ2Wjg/view?usp=sharing](https://drive.google.com/file/d/0B9NA4VyDsjPbb0ZsUUdJeDJ2Wjg/view?usp=sharing)

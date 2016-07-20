@@ -6,4 +6,4 @@ In Session 4, we covered:
 * Binning parameters
 * Quality control / Sequence Analyses
 
-GoToMeeting Recording: 
+GoToMeeting Recording: [https://drive.google.com/open?id=0B9NA4VyDsjPbZllMREJ6TWZFeWM](https://drive.google.com/open?id=0B9NA4VyDsjPbZllMREJ6TWZFeWM)

@@ -24,3 +24,8 @@ Slides, in-class materials, and links to recordings can be found in each Session
 * Generating cycle sequencing plates
 * Attaching raw traces to plates (including sequence naming convention)
 * Downloading traces to local
+
+[Session 4](Session\ 4) (July 20, 2016):
+* Assembling contigs
+* Binning parameters
+* Quality control / Sequence Analyses

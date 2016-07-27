@@ -9,6 +9,8 @@ Everything we covered in class (and more) is covered in the SI Barcode Network I
 
 The Moorea Biocode LIMS Wiki page contains the official documentation for the Geneious Biocode Plug-in, and can be found here: [software.mooreabiocode.org](http://software.mooreabiocode.org/index.php?title=Main_Page)
 
+The Smithsonian provides a floating institutional license for 25 concurrent users. You can find instructions for how to connect to this floating license here: [http://darwin.si.edu/about/LAB%20Documents/Geneious%20and%20Sequencher%20install.pdf](http://darwin.si.edu/about/LAB%20Documents/Geneious%20and%20Sequencher%20install.pdf). **Note: This is a Smithsonian Intranet site, so you can only connect to it on a Smithsonian network.**
+
 ## Class Materials 
 
 Slides, in-class materials, and links to recordings can be found in each Session folder.

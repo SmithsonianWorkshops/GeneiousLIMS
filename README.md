@@ -1,7 +1,15 @@
 # Geneious Software and LIMS Plugin
 This GitHub repository hosts the materials used in the Smithsonian Institution workshop: **Geneious Software and LIMS Plugin**
 
-The purpose of the workshop is to provide intensive training for Geneious software and the associated LIMS plugin. We will be demonstrating the pipeline that CBOL developed for SI Barcode Network projects, but we are opening it to the entire Smithsonian community. We will show how any Sanger sequencing project can use the same system to organize their lab workflows and data. 
+The purpose of the workshop is to provide intensive training for Geneious software and the associated LIMS plugin. We will be demonstrating the pipeline that CBOL developed for SI Barcode Network projects, but we are opening it to the entire Smithsonian community. We will show how any Sanger sequencing project can use the same system to organize their lab workflows and data.
+
+## Resources
+
+Everything we covered in class (and more) is covered in the SI Barcode Network Informatics ReadTheDocs page here: [SIBarcodeNetwork.rtfd.org](http://sibarcodenetwork.readthedocs.io/en/latest/)
+
+The Moorea Biocode LIMS Wiki page contains the official documentation for the Geneious Biocode Plug-in, and can be found here: [software.mooreabiocode.org](http://software.mooreabiocode.org/index.php?title=Main_Page)
+
+## Class Materials 
 
 Slides, in-class materials, and links to recordings can be found in each Session folder.
 

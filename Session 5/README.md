@@ -6,4 +6,4 @@ In Session 5, we covered:
 * Annotating with FIMS/LIMS data
 * GenBank Upload
 
-GoToMeeting Recording: 
+GoToMeeting Recording: [https://drive.google.com/open?id=0B9NA4VyDsjPbWlFxbUQtZllQVFU](https://drive.google.com/open?id=0B9NA4VyDsjPbWlFxbUQtZllQVFU)

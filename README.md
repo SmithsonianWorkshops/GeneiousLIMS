@@ -29,3 +29,8 @@ Slides, in-class materials, and links to recordings can be found in each Session
 * Assembling contigs
 * Binning parameters
 * Quality control / Sequence Analyses
+
+[Session 5](Session\ 5) (July 26, 2016):
+* Marking sequences as Pass or Fail in LIMS
+* Annotating with FIMS/LIMS data
+* GenBank Upload
